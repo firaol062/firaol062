@@ -1,7 +1,9 @@
-![welcome image](welcome.gif)
+<img src="welcome.gif" alt="welcomce" height=100px align="center">
 <h1 align="center">Hi 👋, I'm Firaol wakuma</h1>
 <h3 align="center">friendly developer and eager learner</h3>
-## [Connect with me 📩](https://fobybus.bio.link)
+
+
+### [Connect with me 💬](https://fobybus.bio.link) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fobybus&label=Profile%20views&color=0e75b6&style=flat" alt="fobybus" /> </p>
 
