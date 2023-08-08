@@ -20,7 +20,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/fobybus"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fobybus" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fobybus&show_icons=true&locale=en&layout=compact" alt="fobybus" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fobybus&show_icons=true&locale=en" alt="fobybus" /></p>
+![fobybus's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fobybus&theme=vue-dark&hide_border=true)
 
