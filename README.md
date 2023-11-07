@@ -1,5 +1,13 @@
 <img src="welcome.gif" alt="welcomce" height=100px align="center">
 <h1 align="center">Hi 👋, I'm Firaol wakuma</h1>
+
+- Coding my way through life, one bug at a time 🐞
+- n love with binary and the endless 0s and 1s ❤️🔁
+- Ctrl+Z specialist, fixing yesterday's mistakes today 🔍↩️
+- Chasing bugs, debugging dreams 🐞💭
+- Bridging the gap between humans and machines 🌐🤖
+- Passionate about tech, powered by donuts ☕🍩💻
+- Driven by data, inspired by code 📈💻
 <h3 align="center">friendly developer and eager learner</h3>
 
 
