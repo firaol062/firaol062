@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fobybus&label=Profile%20views&color=0e75b6&style=flat" alt="fobybus" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/fobybus?tab=repositories](https://github.com/fobybus?tab=repositories)
+- 👨‍💻 some  of my projects are available at [https://github.com/fobybus?tab=repositories](https://github.com/fobybus?tab=repositories)
 
 <h3 align="left">checkout</h3>
 <p align="left">
