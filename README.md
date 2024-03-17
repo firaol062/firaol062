@@ -1,5 +1,5 @@
 <img src="welcome.gif" alt="welcomce" height=100px align="center">
-<h1 align="center">Hi 👋, I'm Firaol wakuma</h1>
+<h1 align="center">Hi 👋, I'm Foby</h1>
 
 - Coding my way through life, one bug at a time 🐞
 - n love with binary and the endless 0s and 1s ❤️🔁
